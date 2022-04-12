@@ -1,0 +1,16 @@
+C:\Users\gamer\Desktop\Metot tanımlama\obj\Debug\net5.0\Metot tanımlama.csproj.AssemblyReference.cache
+C:\Users\gamer\Desktop\Metot tanımlama\obj\Debug\net5.0\Metot tanımlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\Desktop\Metot tanımlama\obj\Debug\net5.0\Metot tanımlama.AssemblyInfoInputs.cache
+C:\Users\gamer\Desktop\Metot tanımlama\obj\Debug\net5.0\Metot tanımlama.AssemblyInfo.cs
+C:\Users\gamer\Desktop\Metot tanımlama\obj\Debug\net5.0\Metot tanımlama.csproj.CoreCompileInputs.cache
+C:\Users\gamer\Desktop\Metot tanımlama\bin\Debug\net5.0\Metot tanımlama.exe
+C:\Users\gamer\Desktop\Metot tanımlama\bin\Debug\net5.0\Metot tanımlama.deps.json
+C:\Users\gamer\Desktop\Metot tanımlama\bin\Debug\net5.0\Metot tanımlama.runtimeconfig.json
+C:\Users\gamer\Desktop\Metot tanımlama\bin\Debug\net5.0\Metot tanımlama.runtimeconfig.dev.json
+C:\Users\gamer\Desktop\Metot tanımlama\bin\Debug\net5.0\Metot tanımlama.dll
+C:\Users\gamer\Desktop\Metot tanımlama\bin\Debug\net5.0\ref\Metot tanımlama.dll
+C:\Users\gamer\Desktop\Metot tanımlama\bin\Debug\net5.0\Metot tanımlama.pdb
+C:\Users\gamer\Desktop\Metot tanımlama\obj\Debug\net5.0\Metot tanımlama.dll
+C:\Users\gamer\Desktop\Metot tanımlama\obj\Debug\net5.0\ref\Metot tanımlama.dll
+C:\Users\gamer\Desktop\Metot tanımlama\obj\Debug\net5.0\Metot tanımlama.pdb
+C:\Users\gamer\Desktop\Metot tanımlama\obj\Debug\net5.0\Metot tanımlama.genruntimeconfig.cache
